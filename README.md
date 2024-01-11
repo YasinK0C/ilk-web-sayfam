@@ -10,7 +10,7 @@ kapsamımda HTLM dersleri sırasında yapmış oldğum çalışmalardaki -ilk we
 bulunuyor.
 
 Aşağıdaki linkten patika adresime ulaşabilirsiniz.
-https://app.patika.dev/ysnkoc
+https://academy.patika.dev/@ysnkoc
 
 Kaliteli Eğitimlere ulaşmak için tıklayınız.
 
